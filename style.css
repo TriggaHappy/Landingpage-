@@ -13,7 +13,7 @@ body {
     color: white  
 }
 
-.header-heading{ /*child von .header*/
+.header-heading{ 
     margin-left: 30px;
     margin-bottom: 50px;
     display: flex;
@@ -22,7 +22,7 @@ body {
     color: #F9FAF8;
 }
 
-.header-navbar { /*child von .header*/
+.header-navbar {
  display: flex;
  flex-direction: row;
  justify-items: flex-end;
@@ -30,7 +30,7 @@ body {
  padding: 20px;
 }
 
-.header-navbar-list { /*child von -header-navbar*/
+.header-navbar-list { 
 display: flex;
 flex-direction: row;
 justify-content: space-evenly;
