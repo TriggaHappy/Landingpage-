@@ -192,3 +192,37 @@ align-items: center;
 	font-size: 16px;
 	font-weight: 800;
 }
+
+.end {
+	display: flex;
+	justify-content: center;
+	height: 300px;
+	margin-top: 100px;
+}
+
+.end-items {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	height: 100px;
+	width: 800px;
+	margin: 0px;
+	border-radius: solid #3882F6;
+	background-color: #3882F6;
+}
+
+.end-item1 {
+	display: flex;
+	align-self: flex-start;
+	margin: 0px;
+	margin-left: 20px;
+	width: 600px;
+}
+
+.end-button {
+	display: flex;
+	align-self: flex-end;
+	justify-self: right;
+	margin-right: 80px;
+	
+}
