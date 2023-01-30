@@ -104,6 +104,11 @@ border-color: #3882F6;
   width: 350px;
 }
 
+.hero-right-image {
+  height: 250px;
+  width: 350px;
+}
+
 .upper {
   height: 400px;
   background-color: #f9faf8;
